@@ -2,7 +2,7 @@ import psycopg2
 
 def connection_db():
     conn = psycopg2.connect(
-        database="the bear",
+        database="the_bear",
         password="admin",
         user="admin",
         host="localhost",
@@ -10,3 +10,6 @@ def connection_db():
     )
     
     return conn
+
+connect = connection_db()
+print(connect) 
