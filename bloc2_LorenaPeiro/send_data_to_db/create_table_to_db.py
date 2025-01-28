@@ -5,7 +5,7 @@ def create_tables() :
         database="the bear",
         password="admin",
         user="admin",
-        host="localhost",
+        host="db",
         port="5432"
     )
     
@@ -27,4 +27,6 @@ def create_tables() :
     cursor.close()
     
     return ("Tables created succesfully")
+
+print(create_tables)
         
