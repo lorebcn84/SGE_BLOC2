@@ -2,10 +2,10 @@ import psycopg2
 
 def create_tables() :
     conn = psycopg2.connect(
-        database="the bear",
+        database="the_bear",
         password="admin",
         user="admin",
-        host="db",
+        host="localhost",
         port="5432"
     )
     
@@ -28,5 +28,5 @@ def create_tables() :
     
     return ("Tables created succesfully")
 
-print(create_tables)
+print(create_tables())
         
