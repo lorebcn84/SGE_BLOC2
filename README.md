@@ -23,3 +23,7 @@ Es fa la trucada a create_tables() del arxiu create_table-to_db per crear la tau
 S'executa csv_to_dic.py per tal d'inserir a la taula creada anteriorment, les dades del excel convertit en format .csv
 
 ![image](https://github.com/user-attachments/assets/8cc37e4b-8dd7-4ee4-87e4-7ed7875ffcc2)
+
+**PAS INSERCIÓ CREATE_REGISTRE**
+
+![image](https://github.com/user-attachments/assets/af552cc4-2526-4297-b23e-451ecaeb12b2)
