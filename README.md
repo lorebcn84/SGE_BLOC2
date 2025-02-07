@@ -7,6 +7,7 @@ Es fa la trucada a la funció de coonnect a la base de dades Si el resultat es 0
 ![image](https://github.com/user-attachments/assets/0484b2c3-2554-400c-9959-43cc5484fa2d)
 
 La sortida será:
+
 ![image](https://github.com/user-attachments/assets/27509157-36e6-4d50-afbb-5784471a2865)
 
 **PAS CREACIÓ I INSERCIÓ DE DADES**
