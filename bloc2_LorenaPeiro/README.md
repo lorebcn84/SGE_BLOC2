@@ -14,3 +14,7 @@ Ara des del read_registre probem a imprimir la llista de totes les dades
 La sortida és:
 
 ![img_3.png](img_3.png)
+
+Extreiem el registre de id_cliente = 5
+
+![img_4.png](img_4.png)
