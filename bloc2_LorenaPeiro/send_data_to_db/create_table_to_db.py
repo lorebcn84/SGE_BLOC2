@@ -12,7 +12,7 @@ def create_tables() :
     cursor = conn.cursor()
     
     sql_clients = '''
-        CREATE TABLE Clientes (
+        CREATE TABLE clientes (
         Nombre_Cliente VARCHAR(100),
         Direccion_Cliente VARCHAR(200),
         Teléfono_Cliente VARCHAR(100),
