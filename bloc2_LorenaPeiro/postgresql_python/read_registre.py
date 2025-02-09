@@ -10,4 +10,21 @@ def read_reg():
     conn.commit()
 
     results = cursor.fetchall()  # Obtenim els resultats
-    return results
+    print(results)
+    print(results[4])
+    print(results[4][2]
+
+    #Les dades de l'Andreu
+    print(results[9])
+    #El correu de l'Andreu
+    print(results[9][3])
+    #Les dades de la Vivian
+    print(results[14])
+    #La direccio de la Vivian
+    print(results[14][1]
+    #Les dades de l'Albert
+    print(results[19]
+    #La data de cumpleanys de l'Albert
+    print(results[19][4]
+
+print(read_reg())
