@@ -100,4 +100,4 @@ Eliminem el registre de 3 clients
 
 - Desprès de l'eliminació:
 
-    ![img_27.png](img_27.png)
+  ![img_27.png](img_27.png)
