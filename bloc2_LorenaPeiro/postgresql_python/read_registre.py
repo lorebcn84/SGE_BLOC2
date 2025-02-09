@@ -12,7 +12,7 @@ def read_reg():
     results = cursor.fetchall()  # Obtenim els resultats
     print(results)
     print(results[4])
-    print(results[4][2]
+    print(results[4][2])
 
     #Les dades de l'Andreu
     print(results[9])
@@ -21,10 +21,10 @@ def read_reg():
     #Les dades de la Vivian
     print(results[14])
     #La direccio de la Vivian
-    print(results[14][1]
+    print(results[14][1])
     #Les dades de l'Albert
-    print(results[19]
+    print(results[19])
     #La data de cumpleanys de l'Albert
-    print(results[19][4]
+    print(results[19][4])
 
 print(read_reg())
