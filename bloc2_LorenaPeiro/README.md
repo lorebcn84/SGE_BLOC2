@@ -26,3 +26,18 @@ I ara imprimirem el telèfon del id_cliente = 5
 La sortida es la següent:
 
 ![img_6.png](img_6.png)
+
+Ara extreurem, per acabar aquest pas, les següents dades:
+
+1. Les dades de l’Andreu
+2. El correu de l’Andreu
+3. Les dades de la Vivian
+4. La direcció de la Vivian
+5. Les dades de l’Albert
+6. La data de cumpleanys de l’Albert
+
+![img_9.png](img_9.png)
+
+La sortida és la següent:
+
+![img_8.png](img_8.png)
