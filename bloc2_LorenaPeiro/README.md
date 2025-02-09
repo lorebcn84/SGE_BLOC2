@@ -41,3 +41,63 @@ Ara extreurem, per acabar aquest pas, les següents dades:
 La sortida és la següent:
 
 ![img_8.png](img_8.png)
+
+
+**PAS MAIN.PY**
+
+![img_10.png](img_10.png)
+
+![img_11.png](img_11.png)
+
+
+**PAS UPDATE.PY**
+
+Modifiquem el teléfon de 3 clients diferents
+
+![img_12.png](img_12.png)
+
+![img_13.png](img_13.png)
+
+![img_15.png](img_15.png)
+
+![img_14.png](img_14.png)
+
+![img_16.png](img_16.png)
+
+![img_17.png](img_17.png)
+
+
+
+**PAS DELETE.PY**
+
+Eliminem el registre de 3 clients
+
+![img_20.png](img_20.png)
+
+- Abans de l'eliminació:
+
+  ![img_19.png](img_19.png)
+
+- Desprès de l'eliminació:
+
+    ![img_21.png](img_21.png)
+
+![img_22.png](img_22.png)
+
+- Abans de l'eliminació:
+
+  ![img_23.png](img_23.png)
+
+- Desprès de l'eliminació:
+
+    ![img_24.png](img_24.png)
+
+![img_25.png](img_25.png)
+
+- Abans de l'eliminació:
+
+  ![img_26.png](img_26.png)
+
+- Desprès de l'eliminació:
+
+    ![img_27.png](img_27.png)
