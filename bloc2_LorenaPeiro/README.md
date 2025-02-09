@@ -18,3 +18,11 @@ La sortida és:
 Extreiem el registre de id_cliente = 5
 
 ![img_4.png](img_4.png)
+
+I ara imprimirem el telèfon del id_cliente = 5
+
+![img_5.png](img_5.png)
+
+La sortida es la següent:
+
+![img_6.png](img_6.png)

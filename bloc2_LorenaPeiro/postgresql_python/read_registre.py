@@ -12,6 +12,7 @@ def read_reg():
     results = cursor.fetchall()  # Obtenim els resultats
     print(results)
     print(results[4])
+    print(results[4][2])
 
 print (read_reg())
 
