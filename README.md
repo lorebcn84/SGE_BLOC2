@@ -1,4 +1,3 @@
-
 # SGE_BLOC2
 
 **PAS CONNECT.PY**
@@ -29,5 +28,3 @@ S'executa csv_to_dic.py per tal d'inserir a la taula creada anteriorment, les da
 
 **PAS INSERCIÓ CREATE_REGISTRE**
 ![image](https://github.com/user-attachments/assets/af552cc4-2526-4297-b23e-451ecaeb12b2)
-=======
-
